@@ -1,0 +1,1800 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4899.251133786848 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "clip1_annotate" 
+        xmin = 0 
+        xmax = 4899.251133786848 
+        intervals: size = 439 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09644530099862199 
+            text = " " 
+        intervals [2]:
+            xmin = 0.09644530099862199 
+            xmax = 0.09648121116962922 
+            text = "" 
+        intervals [3]:
+            xmin = 0.09648121116962922 
+            xmax = 2.886584825458305 
+            text = "noise" 
+        intervals [4]:
+            xmin = 2.886584825458305 
+            xmax = 16.17750406197174 
+            text = "" 
+        intervals [5]:
+            xmin = 16.17750406197174 
+            xmax = 29.860982094500294 
+            text = "arnab" 
+        intervals [6]:
+            xmin = 29.860982094500294 
+            xmax = 160.5459707549016 
+            text = "arnab,introduction" 
+        intervals [7]:
+            xmin = 160.5459707549016 
+            xmax = 163.4618773725911 
+            text = "silence" 
+        intervals [8]:
+            xmin = 163.4618773725911 
+            xmax = 172.9936207936437 
+            text = "arnab" 
+        intervals [9]:
+            xmin = 172.9936207936437 
+            xmax = 175.39658131995947 
+            text = "silence" 
+        intervals [10]:
+            xmin = 175.39658131995947 
+            xmax = 186.44191685868807 
+            text = "arnab" 
+        intervals [11]:
+            xmin = 186.44191685868807 
+            xmax = 187.2829530428986 
+            text = "trash" 
+        intervals [12]:
+            xmin = 187.2829530428986 
+            xmax = 189.24537080605648 
+            text = "silence" 
+        intervals [13]:
+            xmin = 189.24537080605648 
+            xmax = 254.7880804950492 
+            text = "speaker" 
+        intervals [14]:
+            xmin = 254.7880804950492 
+            xmax = 270.43628524738875 
+            text = "speaker" 
+        intervals [15]:
+            xmin = 270.43628524738875 
+            xmax = 335.3303776035411 
+            text = "speaker" 
+        intervals [16]:
+            xmin = 335.3303776035411 
+            xmax = 342.1387657614357 
+            text = "multiple" 
+        intervals [17]:
+            xmin = 342.1387657614357 
+            xmax = 346.8263013667432 
+            text = "multiple" 
+        intervals [18]:
+            xmin = 346.8263013667432 
+            xmax = 351.2717783404274 
+            text = "speaker" 
+        intervals [19]:
+            xmin = 351.2717783404274 
+            xmax = 381.5458208203397 
+            text = "arnab" 
+        intervals [20]:
+            xmin = 381.5458208203397 
+            xmax = 392.4548975912757 
+            text = "arnab" 
+        intervals [21]:
+            xmin = 392.4548975912757 
+            xmax = 403.788861407065 
+            text = "multiple" 
+        intervals [22]:
+            xmin = 403.788861407065 
+            xmax = 407.1074790479719 
+            text = "arnab" 
+        intervals [23]:
+            xmin = 407.1074790479719 
+            xmax = 411.5930053637613 
+            text = "arnab" 
+        intervals [24]:
+            xmin = 411.5930053637613 
+            xmax = 413.2750777321823 
+            text = "arnab" 
+        intervals [25]:
+            xmin = 413.2750777321823 
+            xmax = 414.5566566795507 
+            text = "silence" 
+        intervals [26]:
+            xmin = 414.5566566795507 
+            xmax = 421.4050941795506 
+            text = "" 
+        intervals [27]:
+            xmin = 421.4050941795506 
+            xmax = 425.57805361764997 
+            text = "multiple_clear" 
+        intervals [28]:
+            xmin = 425.57805361764997 
+            xmax = 428.8620996702815 
+            text = "silence" 
+        intervals [29]:
+            xmin = 428.8620996702815 
+            xmax = 433.41441905729926 
+            text = "speaker" 
+        intervals [30]:
+            xmin = 433.41441905729926 
+            xmax = 438.02009339940446 
+            text = "multiple" 
+        intervals [31]:
+            xmin = 438.02009339940446 
+            xmax = 442.5468441099601 
+            text = "speaker" 
+        intervals [32]:
+            xmin = 442.5468441099601 
+            xmax = 446.7119756889074 
+            text = "multiple" 
+        intervals [33]:
+            xmin = 446.7119756889074 
+            xmax = 451.99848884680205 
+            text = "arnab" 
+        intervals [34]:
+            xmin = 451.99848884680205 
+            xmax = 481.36587712393685 
+            text = "speaker" 
+        intervals [35]:
+            xmin = 481.36587712393685 
+            xmax = 500.5418166363643 
+            text = "speaker" 
+        intervals [36]:
+            xmin = 500.5418166363643 
+            xmax = 509.1586229723147 
+            text = "multiple" 
+        intervals [37]:
+            xmin = 509.1586229723147 
+            xmax = 511.5615834986304 
+            text = "speaker" 
+        intervals [38]:
+            xmin = 511.5615834986304 
+            xmax = 515.8068137617882 
+            text = "multiple" 
+        intervals [39]:
+            xmin = 515.8068137617882 
+            xmax = 517.8493302091566 
+            text = "silence" 
+        intervals [40]:
+            xmin = 517.8493302091566 
+            xmax = 534.0376798051653 
+            text = "speaker" 
+        intervals [41]:
+            xmin = 534.0376798051653 
+            xmax = 536.2081721380018 
+            text = "multiple" 
+        intervals [42]:
+            xmin = 536.2081721380018 
+            xmax = 557.206290464639 
+            text = "speaker" 
+        intervals [43]:
+            xmin = 557.206290464639 
+            xmax = 561.1139726999755 
+            text = "multiple" 
+        intervals [44]:
+            xmin = 561.1139726999755 
+            xmax = 564.7184134894492 
+            text = "arnab" 
+        intervals [45]:
+            xmin = 564.7184134894492 
+            xmax = 577.7344496736595 
+            text = "multiple" 
+        intervals [46]:
+            xmin = 577.7344496736595 
+            xmax = 607.6431578471249 
+            text = "arnab" 
+        intervals [47]:
+            xmin = 607.6431578471249 
+            xmax = 610.7670065313354 
+            text = "multiple" 
+        intervals [48]:
+            xmin = 610.7670065313354 
+            xmax = 620.3788486365984 
+            text = "arnab" 
+        intervals [49]:
+            xmin = 620.3788486365984 
+            xmax = 621.5002302155457 
+            text = "silence" 
+        intervals [50]:
+            xmin = 621.5002302155457 
+            xmax = 624.1730356521106 
+            text = "arnab" 
+        intervals [51]:
+            xmin = 624.1730356521106 
+            xmax = 626.8040291675782 
+            text = "multiple" 
+        intervals [52]:
+            xmin = 626.8040291675782 
+            xmax = 628.7664469307359 
+            text = "speaker" 
+        intervals [53]:
+            xmin = 628.7664469307359 
+            xmax = 634.5419675793768 
+            text = "multiple" 
+        intervals [54]:
+            xmin = 634.5419675793768 
+            xmax = 636.9449281056925 
+            text = "multiple_clear" 
+        intervals [55]:
+            xmin = 636.9449281056925 
+            xmax = 641.1501090267451 
+            text = "multiple" 
+        intervals [56]:
+            xmin = 641.1501090267451 
+            xmax = 642.071243895166 
+            text = "speaker" 
+        intervals [57]:
+            xmin = 642.071243895166 
+            xmax = 642.9122800793766 
+            text = "arnab" 
+        intervals [58]:
+            xmin = 642.9122800793766 
+            xmax = 644.0336616583239 
+            text = "multiple" 
+        intervals [59]:
+            xmin = 644.0336616583239 
+            xmax = 645.2351419214818 
+            text = "arnab" 
+        intervals [60]:
+            xmin = 645.2351419214818 
+            xmax = 649.8808656056923 
+            text = "speaker" 
+        intervals [61]:
+            xmin = 649.8808656056923 
+            xmax = 651.1223952109553 
+            text = "silence" 
+        intervals [62]:
+            xmin = 651.1223952109553 
+            xmax = 654.2735751506194 
+            text = "speaker" 
+        intervals [63]:
+            xmin = 654.2735751506194 
+            xmax = 655.11461133483 
+            text = "silence" 
+        intervals [64]:
+            xmin = 655.11461133483 
+            xmax = 663.4448744927246 
+            text = "speaker" 
+        intervals [65]:
+            xmin = 663.4448744927246 
+            xmax = 664.6063054137771 
+            text = "silence" 
+        intervals [66]:
+            xmin = 664.6063054137771 
+            xmax = 707.3900527092347 
+            text = "speaker" 
+        intervals [67]:
+            xmin = 707.3900527092347 
+            xmax = 726.5242436768284 
+            text = "multiple" 
+        intervals [68]:
+            xmin = 726.5242436768284 
+            xmax = 779.1011619270605 
+            text = "speaker" 
+        intervals [69]:
+            xmin = 779.1011619270605 
+            xmax = 781.7406063176387 
+            text = "multiple " 
+        intervals [70]:
+            xmin = 781.7406063176387 
+            xmax = 805.8255441273717 
+            text = "arnab" 
+        intervals [71]:
+            xmin = 805.8255441273717 
+            xmax = 805.8757979423075 
+            text = "" 
+        intervals [72]:
+            xmin = 805.8757979423075 
+            xmax = 806.7552397036832 
+            text = "silence" 
+        intervals [73]:
+            xmin = 806.7552397036832 
+            xmax = 809.0480954755294 
+            text = "arnab" 
+        intervals [74]:
+            xmin = 809.0480954755294 
+            xmax = 809.952664144373 
+            text = "speaker" 
+        intervals [75]:
+            xmin = 809.952664144373 
+            xmax = 810.7567251833451 
+            text = "silence" 
+        intervals [76]:
+            xmin = 810.7567251833451 
+            xmax = 812.9176392255827 
+            text = "multiple_clear" 
+        intervals [77]:
+            xmin = 812.9176392255827 
+            xmax = 814.1488576915087 
+            text = "silence" 
+        intervals [78]:
+            xmin = 814.1488576915087 
+            xmax = 815.6701037689617 
+            text = "arnab" 
+        intervals [79]:
+            xmin = 815.6701037689617 
+            xmax = 816.3987840855302 
+            text = "speaker" 
+        intervals [80]:
+            xmin = 816.3987840855302 
+            xmax = 817.6048756439883 
+            text = "multiple" 
+        intervals [81]:
+            xmin = 817.6048756439883 
+            xmax = 823.8782608290051 
+            text = "arnab" 
+        intervals [82]:
+            xmin = 823.8782608290051 
+            xmax = 824.6520068746912 
+            text = "speaker" 
+        intervals [83]:
+            xmin = 824.6520068746912 
+            xmax = 838.9743441313818 
+            text = "multiple" 
+        intervals [84]:
+            xmin = 838.9743441313818 
+            xmax = 841.1433286816978 
+            text = "speaker" 
+        intervals [85]:
+            xmin = 841.1433286816978 
+            xmax = 844.2590652077147 
+            text = "multiple" 
+        intervals [86]:
+            xmin = 844.2590652077147 
+            xmax = 854.4836820574577 
+            text = "speaker" 
+        intervals [87]:
+            xmin = 854.4836820574577 
+            xmax = 856.2174386727413 
+            text = "arnab" 
+        intervals [88]:
+            xmin = 856.2174386727413 
+            xmax = 856.9712458967776 
+            text = "speaker" 
+        intervals [89]:
+            xmin = 856.9712458967776 
+            xmax = 863.5447636910833 
+            text = "multiple" 
+        intervals [90]:
+            xmin = 863.5447636910833 
+            xmax = 864.8764897868808 
+            text = "arnab" 
+        intervals [91]:
+            xmin = 864.8764897868808 
+            xmax = 872.1288071183027 
+            text = "multiple" 
+        intervals [92]:
+            xmin = 872.1288071183027 
+            xmax = 874.6917516800262 
+            text = "arnab" 
+        intervals [93]:
+            xmin = 874.6917516800262 
+            xmax = 879.3904833765195 
+            text = "multiple" 
+        intervals [94]:
+            xmin = 879.3904833765195 
+            xmax = 887.9403121433508 
+            text = "arnab" 
+        intervals [95]:
+            xmin = 887.9403121433508 
+            xmax = 891.2570639291107 
+            text = "multiple" 
+        intervals [96]:
+            xmin = 891.2570639291107 
+            xmax = 891.7718434275232 
+            text = "silence" 
+        intervals [97]:
+            xmin = 891.7718434275232 
+            xmax = 893.9327574697608 
+            text = "speaker" 
+        intervals [98]:
+            xmin = 893.9327574697608 
+            xmax = 907.837771123385 
+            text = "multiple" 
+        intervals [99]:
+            xmin = 907.837771123385 
+            xmax = 911.3590648005061 
+            text = "speaker" 
+        intervals [100]:
+            xmin = 911.3590648005061 
+            xmax = 929.9635562215907 
+            text = "multiple" 
+        intervals [101]:
+            xmin = 929.9635562215907 
+            xmax = 935.4914758645239 
+            text = "speaker" 
+        intervals [102]:
+            xmin = 935.4914758645239 
+            xmax = 944.7501479878837 
+            text = "multiple" 
+        intervals [103]:
+            xmin = 944.7501479878837 
+            xmax = 971.7033510544475 
+            text = "arnab" 
+        intervals [104]:
+            xmin = 971.7033510544475 
+            xmax = 972.6983223554004 
+            text = "silence" 
+        intervals [105]:
+            xmin = 972.6983223554004 
+            xmax = 980.9497818287524 
+            text = "arnab" 
+        intervals [106]:
+            xmin = 980.9497818287524 
+            xmax = 982.5527158208785 
+            text = "multiple" 
+        intervals [107]:
+            xmin = 982.5527158208785 
+            xmax = 983.4572844897222 
+            text = "speaker" 
+        intervals [108]:
+            xmin = 983.4572844897222 
+            xmax = 987.4775896845827 
+            text = "multiple" 
+        intervals [109]:
+            xmin = 987.4775896845827 
+            xmax = 988.0052547414081 
+            text = "silence" 
+        intervals [110]:
+            xmin = 988.0052547414081 
+            xmax = 989.5379960969486 
+            text = "arnab" 
+        intervals [111]:
+            xmin = 989.5379960969486 
+            xmax = 1091.9620874363368 
+            text = "speaker" 
+        intervals [112]:
+            xmin = 1091.9620874363368 
+            xmax = 1094.2235091084458 
+            text = "multiple" 
+        intervals [113]:
+            xmin = 1094.2235091084458 
+            xmax = 1095.83163118639 
+            text = "speaker" 
+        intervals [114]:
+            xmin = 1095.83163118639 
+            xmax = 1098.268941210774 
+            text = "silence" 
+        intervals [115]:
+            xmin = 1098.268941210774 
+            xmax = 1099.098129157214 
+            text = "speaker" 
+        intervals [116]:
+            xmin = 1099.098129157214 
+            xmax = 1101.2332720826257 
+            text = "multiple" 
+        intervals [117]:
+            xmin = 1101.2332720826257 
+            xmax = 1101.811190954387 
+            text = "speaker" 
+        intervals [118]:
+            xmin = 1101.811190954387 
+            xmax = 1116.8318935343596 
+            text = "multiple" 
+        intervals [119]:
+            xmin = 1116.8318935343596 
+            xmax = 1118.5405232421751 
+            text = "speaker" 
+        intervals [120]:
+            xmin = 1118.5405232421751 
+            xmax = 1151.5183518058539 
+            text = "multiple" 
+        intervals [121]:
+            xmin = 1151.5183518058539 
+            xmax = 1159.9100946907665 
+            text = "multiple" 
+        intervals [122]:
+            xmin = 1159.9100946907665 
+            xmax = 1160.4377597475918 
+            text = "multiple" 
+        intervals [123]:
+            xmin = 1160.4377597475918 
+            xmax = 1167.8966534600588 
+            text = "speaker" 
+        intervals [124]:
+            xmin = 1167.8966534600588 
+            xmax = 1172.9553123327669 
+            text = "multiple" 
+        intervals [125]:
+            xmin = 1172.9553123327669 
+            xmax = 1178.5177397079854 
+            text = "multiple" 
+        intervals [126]:
+            xmin = 1178.5177397079854 
+            xmax = 1189.4479444565122 
+            text = "speaker" 
+        intervals [127]:
+            xmin = 1189.4479444565122 
+            xmax = 1190.7186675302469 
+            text = "multiple" 
+        intervals [128]:
+            xmin = 1190.7186675302469 
+            xmax = 1196.8998867673447 
+            text = "speaker" 
+        intervals [129]:
+            xmin = 1196.8998867673447 
+            xmax = 1200.166384738169 
+            text = "speaker" 
+        intervals [130]:
+            xmin = 1200.166384738169 
+            xmax = 1201.4112348334756 
+            text = "multiple" 
+        intervals [131]:
+            xmin = 1201.4112348334756 
+            xmax = 1203.2957528935665 
+            text = "speaker" 
+        intervals [132]:
+            xmin = 1203.2957528935665 
+            xmax = 1205.7128529224265 
+            text = "multiple" 
+        intervals [133]:
+            xmin = 1205.7128529224265 
+            xmax = 1207.8737669646641 
+            text = "speaker" 
+        intervals [134]:
+            xmin = 1207.8737669646641 
+            xmax = 1214.2019498410766 
+            text = "multiple" 
+        intervals [135]:
+            xmin = 1214.2019498410766 
+            xmax = 1221.3725792578261 
+            text = "arnab" 
+        intervals [136]:
+            xmin = 1221.3725792578261 
+            xmax = 1222.6289246312201 
+            text = "silence" 
+        intervals [137]:
+            xmin = 1222.6289246312201 
+            xmax = 1223.4581125776601 
+            text = "arnab" 
+        intervals [138]:
+            xmin = 1223.4581125776601 
+            xmax = 1224.1616659867607 
+            text = "silence" 
+        intervals [139]:
+            xmin = 1224.1616659867607 
+            xmax = 1225.1667422854757 
+            text = "arnab" 
+        intervals [140]:
+            xmin = 1225.1667422854757 
+            xmax = 1226.819557057054 
+            text = "arnab" 
+        intervals [141]:
+            xmin = 1226.819557057054 
+            xmax = 1231.8700654580975 
+            text = "speaker" 
+        intervals [142]:
+            xmin = 1231.8700654580975 
+            xmax = 1232.6528992567037 
+            text = "multiple" 
+        intervals [143]:
+            xmin = 1232.6528992567037 
+            xmax = 1235.240970725895 
+            text = "speaker" 
+        intervals [144]:
+            xmin = 1235.240970725895 
+            xmax = 1242.2011240944971 
+            text = "multiple" 
+        intervals [145]:
+            xmin = 1242.2011240944971 
+            xmax = 1255.5250652802251 
+            text = "speaker" 
+        intervals [146]:
+            xmin = 1255.5250652802251 
+            xmax = 1274.9856348710266 
+            text = "multiple" 
+        intervals [147]:
+            xmin = 1274.9856348710266 
+            xmax = 1280.1115239944736 
+            text = "speaker" 
+        intervals [148]:
+            xmin = 1280.1115239944736 
+            xmax = 1280.7550916263601 
+            text = "multiple" 
+        intervals [149]:
+            xmin = 1280.7550916263601 
+            xmax = 1288.4941791264666 
+            text = "speaker" 
+        intervals [150]:
+            xmin = 1288.4941791264666 
+            xmax = 1323.5195285440998 
+            text = "multiple" 
+        intervals [151]:
+            xmin = 1323.5195285440998 
+            xmax = 1334.7341997828523 
+            text = "arnab" 
+        intervals [152]:
+            xmin = 1334.7341997828523 
+            xmax = 1356.144190122902 
+            text = "multiple" 
+        intervals [153]:
+            xmin = 1356.144190122902 
+            xmax = 1358.3030696754554 
+            text = "arnab" 
+        intervals [154]:
+            xmin = 1358.3030696754554 
+            xmax = 1363.303324261563 
+            text = "multiple" 
+        intervals [155]:
+            xmin = 1363.303324261563 
+            xmax = 1398.0774046045142 
+            text = "speaker" 
+        intervals [156]:
+            xmin = 1398.0774046045142 
+            xmax = 1402.5768843570734 
+            text = "multiple" 
+        intervals [157]:
+            xmin = 1402.5768843570734 
+            xmax = 1405.541859438283 
+            text = "speaker" 
+        intervals [158]:
+            xmin = 1405.541859438283 
+            xmax = 1411.458924042289 
+            text = "multiple" 
+        intervals [159]:
+            xmin = 1411.458924042289 
+            xmax = 1414.9550908119427 
+            text = "speaker" 
+        intervals [160]:
+            xmin = 1414.9550908119427 
+            xmax = 1425.2571228737727 
+            text = "multiple" 
+        intervals [161]:
+            xmin = 1425.2571228737727 
+            xmax = 1428.9944537203423 
+            text = "arnab" 
+        intervals [162]:
+            xmin = 1428.9944537203423 
+            xmax = 1441.1890743503411 
+            text = "speaker" 
+        intervals [163]:
+            xmin = 1441.1890743503411 
+            xmax = 1443.2753537411422 
+            text = "multiple" 
+        intervals [164]:
+            xmin = 1443.2753537411422 
+            xmax = 1444.179922409986 
+            text = "speaker" 
+        intervals [165]:
+            xmin = 1444.179922409986 
+            xmax = 1445.43626778338 
+            text = "multiple" 
+        intervals [166]:
+            xmin = 1445.43626778338 
+            xmax = 1511.9991415309423 
+            text = "speaker" 
+        intervals [167]:
+            xmin = 1511.9991415309423 
+            xmax = 1532.5087340431253 
+            text = "multiple" 
+        intervals [168]:
+            xmin = 1532.5087340431253 
+            xmax = 1535.1537395550056 
+            text = "arnab" 
+        intervals [169]:
+            xmin = 1535.1537395550056 
+            xmax = 1540.5308977531315 
+            text = "multiple" 
+        intervals [170]:
+            xmin = 1540.5308977531315 
+            xmax = 1543.7716246071298 
+            text = "arnab" 
+        intervals [171]:
+            xmin = 1543.7716246071298 
+            xmax = 1544.8520816282485 
+            text = "multiple" 
+        intervals [172]:
+            xmin = 1544.8520816282485 
+            xmax = 1595.6561116908645 
+            text = "arnab" 
+        intervals [173]:
+            xmin = 1595.6561116908645 
+            xmax = 1597.5675199742327 
+            text = "multiple" 
+        intervals [174]:
+            xmin = 1597.5675199742327 
+            xmax = 1602.493139908904 
+            text = "arnab" 
+        intervals [175]:
+            xmin = 1602.493139908904 
+            xmax = 1625.3527934094957 
+            text = "speaker" 
+        intervals [176]:
+            xmin = 1625.3527934094957 
+            xmax = 1639.39985379049 
+            text = "multiple" 
+        intervals [177]:
+            xmin = 1639.39985379049 
+            xmax = 1640.5556915340123 
+            text = "silence" 
+        intervals [178]:
+            xmin = 1640.5556915340123 
+            xmax = 1642.6904360456087 
+            text = "speaker" 
+        intervals [179]:
+            xmin = 1642.6904360456087 
+            xmax = 1645.7903257809735 
+            text = "multiple" 
+        intervals [180]:
+            xmin = 1645.7903257809735 
+            xmax = 1674.9959680752215 
+            text = "speaker" 
+        intervals [181]:
+            xmin = 1674.9959680752215 
+            xmax = 1685.0523032797123 
+            text = "multiple" 
+        intervals [182]:
+            xmin = 1685.0523032797123 
+            xmax = 1691.642620039937 
+            text = "speaker" 
+        intervals [183]:
+            xmin = 1691.642620039937 
+            xmax = 1717.630743771975 
+            text = "multiple" 
+        intervals [184]:
+            xmin = 1717.630743771975 
+            xmax = 1722.7723839058608 
+            text = "arnab" 
+        intervals [185]:
+            xmin = 1722.7723839058608 
+            xmax = 1725.1156076428294 
+            text = "multiple" 
+        intervals [186]:
+            xmin = 1725.1156076428294 
+            xmax = 1736.5138946751904 
+            text = "speaker" 
+        intervals [187]:
+            xmin = 1736.5138946751904 
+            xmax = 1748.0617492767826 
+            text = "multiple" 
+        intervals [188]:
+            xmin = 1748.0617492767826 
+            xmax = 1752.243404500966 
+            text = "speaker" 
+        intervals [189]:
+            xmin = 1752.243404500966 
+            xmax = 1754.659853979715 
+            text = "multiple" 
+        intervals [190]:
+            xmin = 1754.659853979715 
+            xmax = 1755.7094229452323 
+            text = "arnab" 
+        intervals [191]:
+            xmin = 1755.7094229452323 
+            xmax = 1756.2464117182876 
+            text = "silence" 
+        intervals [192]:
+            xmin = 1756.2464117182876 
+            xmax = 1758.7849041000038 
+            text = "arnab" 
+        intervals [193]:
+            xmin = 1758.7849041000038 
+            xmax = 1760.1517846132356 
+            text = "silence" 
+        intervals [194]:
+            xmin = 1760.1517846132356 
+            xmax = 1761.6162994488411 
+            text = "arnab" 
+        intervals [195]:
+            xmin = 1761.6162994488411 
+            xmax = 1762.2753311248634 
+            text = "silence" 
+        intervals [196]:
+            xmin = 1762.2753311248634 
+            xmax = 1764.0571575081835 
+            text = "arnab" 
+        intervals [197]:
+            xmin = 1764.0571575081835 
+            xmax = 1764.667372023019 
+            text = "silence" 
+        intervals [198]:
+            xmin = 1764.667372023019 
+            xmax = 1767.303498727109 
+            text = "arnab" 
+        intervals [199]:
+            xmin = 1767.303498727109 
+            xmax = 1767.9625304031313 
+            text = "silence" 
+        intervals [200]:
+            xmin = 1767.9625304031313 
+            xmax = 1769.8985962127194 
+            text = "arnab" 
+        intervals [201]:
+            xmin = 1769.8985962127194 
+            xmax = 1771.4607453706988 
+            text = "silence" 
+        intervals [202]:
+            xmin = 1771.4607453706988 
+            xmax = 1775.8542898775152 
+            text = "arnab" 
+        intervals [203]:
+            xmin = 1775.8542898775152 
+            xmax = 1777.2113020289687 
+            text = "multiple" 
+        intervals [204]:
+            xmin = 1777.2113020289687 
+            xmax = 1817.2530561162462 
+            text = "arnab" 
+        intervals [205]:
+            xmin = 1817.2530561162462 
+            xmax = 1830.1353323839182 
+            text = "multiple" 
+        intervals [206]:
+            xmin = 1830.1353323839182 
+            xmax = 1830.7455468987537 
+            text = "multiple" 
+        intervals [207]:
+            xmin = 1830.7455468987537 
+            xmax = 1838.8491956557705 
+            text = "speaker" 
+        intervals [208]:
+            xmin = 1838.8491956557705 
+            xmax = 1877.4017640029972 
+            text = "multiple" 
+        intervals [209]:
+            xmin = 1877.4017640029972 
+            xmax = 1879.6961705787792 
+            text = "speaker" 
+        intervals [210]:
+            xmin = 1879.6961705787792 
+            xmax = 1880.8921910278568 
+            text = "silence" 
+        intervals [211]:
+            xmin = 1880.8921910278568 
+            xmax = 1887.458099207488 
+            text = "speaker" 
+        intervals [212]:
+            xmin = 1887.458099207488 
+            xmax = 1929.1344457659054 
+            text = "multiple" 
+        intervals [213]:
+            xmin = 1929.1344457659054 
+            xmax = 1931.9902496953362 
+            text = "arnab" 
+        intervals [214]:
+            xmin = 1931.9902496953362 
+            xmax = 1949.4423848196345 
+            text = "multiple" 
+        intervals [215]:
+            xmin = 1949.4423848196345 
+            xmax = 1956.1461741114995 
+            text = "arnab" 
+        intervals [216]:
+            xmin = 1956.1461741114995 
+            xmax = 1962.4191793240095 
+            text = "multiple" 
+        intervals [217]:
+            xmin = 1962.4191793240095 
+            xmax = 1965.4936202692454 
+            text = "arnab" 
+        intervals [218]:
+            xmin = 1965.4936202692454 
+            xmax = 2021.001323976659 
+            text = "multiple" 
+        intervals [219]:
+            xmin = 2021.001323976659 
+            xmax = 2031.0522048954936 
+            text = "speaker" 
+        intervals [220]:
+            xmin = 2031.0522048954936 
+            xmax = 2037.6669302363116 
+            text = "multiple" 
+        intervals [221]:
+            xmin = 2037.6669302363116 
+            xmax = 2041.275243868933 
+            text = "speaker" 
+        intervals [222]:
+            xmin = 2041.275243868933 
+            xmax = 2053.601577068612 
+            text = "multiple" 
+        intervals [223]:
+            xmin = 2053.601577068612 
+            xmax = 2061.6158995507303 
+            text = "speaker" 
+        intervals [224]:
+            xmin = 2061.6158995507303 
+            xmax = 2066.2291212828877 
+            text = "multiple" 
+        intervals [225]:
+            xmin = 2066.2291212828877 
+            xmax = 2095.045004173326 
+            text = "speaker" 
+        intervals [226]:
+            xmin = 2095.045004173326 
+            xmax = 2114.224694234101 
+            text = "multiple" 
+        intervals [227]:
+            xmin = 2114.224694234101 
+            xmax = 2123.133826150701 
+            text = "arnab" 
+        intervals [228]:
+            xmin = 2123.133826150701 
+            xmax = 2155.955312239362 
+            text = "speaker" 
+        intervals [229]:
+            xmin = 2155.955312239362 
+            xmax = 2253.149230866975 
+            text = "multiple" 
+        intervals [230]:
+            xmin = 2253.149230866975 
+            xmax = 2260.1056763361007 
+            text = "arnab" 
+        intervals [231]:
+            xmin = 2260.1056763361007 
+            xmax = 2262.253631428322 
+            text = "multiple" 
+        intervals [232]:
+            xmin = 2262.253631428322 
+            xmax = 2264.750316705875 
+            text = "arnab" 
+        intervals [233]:
+            xmin = 2264.750316705875 
+            xmax = 2274.245254556717 
+            text = "arnab" 
+        intervals [234]:
+            xmin = 2274.245254556717 
+            xmax = 2276.124715262411 
+            text = "silence" 
+        intervals [235]:
+            xmin = 2276.124715262411 
+            xmax = 2322.7539278051604 
+            text = "multiple" 
+        intervals [236]:
+            xmin = 2322.7539278051604 
+            xmax = 2330.0505330882916 
+            text = "speaker" 
+        intervals [237]:
+            xmin = 2330.0505330882916 
+            xmax = 2334.785797723416 
+            text = "multiple" 
+        intervals [238]:
+            xmin = 2334.785797723416 
+            xmax = 2337.006978557418 
+            text = "speaker" 
+        intervals [239]:
+            xmin = 2337.006978557418 
+            xmax = 2339.031850537137 
+            text = "arnab" 
+        intervals [240]:
+            xmin = 2339.031850537137 
+            xmax = 2340.6672254368964 
+            text = "multiple" 
+        intervals [241]:
+            xmin = 2340.6672254368964 
+            xmax = 2348.4291540656054 
+            text = "speaker" 
+        intervals [242]:
+            xmin = 2348.4291540656054 
+            xmax = 2362.262844871653 
+            text = "multiple" 
+        intervals [243]:
+            xmin = 2362.262844871653 
+            xmax = 2366.046174863634 
+            text = "speaker" 
+        intervals [244]:
+            xmin = 2366.046174863634 
+            xmax = 2370.1712249839225 
+            text = "multiple" 
+        intervals [245]:
+            xmin = 2370.1712249839225 
+            xmax = 2386.939657527754 
+            text = "speaker" 
+        intervals [246]:
+            xmin = 2386.939657527754 
+            xmax = 2403.3910408477227 
+            text = "multiple" 
+        intervals [247]:
+            xmin = 2403.3910408477227 
+            xmax = 2416.5425893876054 
+            text = "speaker" 
+        intervals [248]:
+            xmin = 2416.5425893876054 
+            xmax = 2423.450217695545 
+            text = "multiple" 
+        intervals [249]:
+            xmin = 2423.450217695545 
+            xmax = 2460.2401762782406 
+            text = "speaker" 
+        intervals [250]:
+            xmin = 2460.2401762782406 
+            xmax = 2465.0730752357385 
+            text = "multiple" 
+        intervals [251]:
+            xmin = 2465.0730752357385 
+            xmax = 2467.3576134497425 
+            text = "speaker" 
+        intervals [252]:
+            xmin = 2467.3576134497425 
+            xmax = 2474.82663911133 
+            text = "arnab" 
+        intervals [253]:
+            xmin = 2474.82663911133 
+            xmax = 2476.1324959016106 
+            text = "multiple" 
+        intervals [254]:
+            xmin = 2476.1324959016106 
+            xmax = 2479.598514345877 
+            text = "arnab" 
+        intervals [255]:
+            xmin = 2479.598514345877 
+            xmax = 2484.5046390451553 
+            text = "multiple" 
+        intervals [256]:
+            xmin = 2484.5046390451553 
+            xmax = 2569.9671208834225 
+            text = "arnab" 
+        intervals [257]:
+            xmin = 2569.9671208834225 
+            xmax = 2571.309592816061 
+            text = "multiple" 
+        intervals [258]:
+            xmin = 2571.309592816061 
+            xmax = 2593.578784145656 
+            text = "arnab" 
+        intervals [259]:
+            xmin = 2593.578784145656 
+            xmax = 2597.9723286524722 
+            text = "multiple" 
+        intervals [260]:
+            xmin = 2597.9723286524722 
+            xmax = 2600.0122609557748 
+            text = "speaker" 
+        intervals [261]:
+            xmin = 2600.0122609557748 
+            xmax = 2605.5774173310756 
+            text = "silence" 
+        intervals [262]:
+            xmin = 2605.5774173310756 
+            xmax = 2685.802700589219 
+            text = "speaker" 
+        intervals [263]:
+            xmin = 2685.802700589219 
+            xmax = 2706.49520254202 
+            text = "multiple" 
+        intervals [264]:
+            xmin = 2706.49520254202 
+            xmax = 2749.545701994546 
+            text = "speaker" 
+        intervals [265]:
+            xmin = 2749.545701994546 
+            xmax = 2755.4769870787486 
+            text = "multiple" 
+        intervals [266]:
+            xmin = 2755.4769870787486 
+            xmax = 2767.268407381508 
+            text = "speaker" 
+        intervals [267]:
+            xmin = 2767.268407381508 
+            xmax = 2774.395712914788 
+            text = "multiple" 
+        intervals [268]:
+            xmin = 2774.395712914788 
+            xmax = 2775.8602277503937 
+            text = "silence" 
+        intervals [269]:
+            xmin = 2775.8602277503937 
+            xmax = 2778.6293013858285 
+            text = "speaker" 
+        intervals [270]:
+            xmin = 2778.6293013858285 
+            xmax = 2782.1929541524687 
+            text = "multiple" 
+        intervals [271]:
+            xmin = 2782.1929541524687 
+            xmax = 2786.318004272757 
+            text = "speaker" 
+        intervals [272]:
+            xmin = 2786.318004272757 
+            xmax = 2788.441550784385 
+            text = "multiple" 
+        intervals [273]:
+            xmin = 2788.441550784385 
+            xmax = 2793.8358470955322 
+            text = "speaker" 
+        intervals [274]:
+            xmin = 2793.8358470955322 
+            xmax = 2796.094158633724 
+            text = "multiple" 
+        intervals [275]:
+            xmin = 2796.094158633724 
+            xmax = 2797.7783506946703 
+            text = "speaker" 
+        intervals [276]:
+            xmin = 2797.7783506946703 
+            xmax = 2799.535768497397 
+            text = "silence" 
+        intervals [277]:
+            xmin = 2799.535768497397 
+            xmax = 2814.4296745164233 
+            text = "speaker" 
+        intervals [278]:
+            xmin = 2814.4296745164233 
+            xmax = 2815.918597932622 
+            text = "multiple" 
+        intervals [279]:
+            xmin = 2815.918597932622 
+            xmax = 2832.345572671997 
+            text = "speaker" 
+        intervals [280]:
+            xmin = 2832.345572671997 
+            xmax = 2844.06636321388 
+            text = "multiple" 
+        intervals [281]:
+            xmin = 2844.06636321388 
+            xmax = 2869.2383575388712 
+            text = "arnab" 
+        intervals [282]:
+            xmin = 2869.2383575388712 
+            xmax = 2896.5481808133927 
+            text = "multiple" 
+        intervals [283]:
+            xmin = 2896.5481808133927 
+            xmax = 2902.0645200275067 
+            text = "arnab" 
+        intervals [284]:
+            xmin = 2902.0645200275067 
+            xmax = 2908.6304282071383 
+            text = "break" 
+        intervals [285]:
+            xmin = 2908.6304282071383 
+            xmax = 2914.1851961158945 
+            text = "multiple" 
+        intervals [286]:
+            xmin = 2914.1851961158945 
+            xmax = 2982.3812054366836 
+            text = "speaker" 
+        intervals [287]:
+            xmin = 2982.3812054366836 
+            xmax = 3022.385046391153 
+            text = "multiple" 
+        intervals [288]:
+            xmin = 3022.385046391153 
+            xmax = 3028.70686876485 
+            text = "arnab" 
+        intervals [289]:
+            xmin = 3028.70686876485 
+            xmax = 3036.542023135339 
+            text = "multiple" 
+        intervals [290]:
+            xmin = 3036.542023135339 
+            xmax = 3080.412545966264 
+            text = "arnab" 
+        intervals [291]:
+            xmin = 3080.412545966264 
+            xmax = 3084.7084561507068 
+            text = "multiple" 
+        intervals [292]:
+            xmin = 3084.7084561507068 
+            xmax = 3110.097011615371 
+            text = "arnab" 
+        intervals [293]:
+            xmin = 3110.097011615371 
+            xmax = 3140.962437389972 
+            text = "speaker" 
+        intervals [294]:
+            xmin = 3140.962437389972 
+            xmax = 3144.721358801359 
+            text = "multiple" 
+        intervals [295]:
+            xmin = 3144.721358801359 
+            xmax = 3147.6747970531637 
+            text = "speaker" 
+        intervals [296]:
+            xmin = 3147.6747970531637 
+            xmax = 3153.166727686684 
+            text = "multiple" 
+        intervals [297]:
+            xmin = 3153.166727686684 
+            xmax = 3168.07803222928 
+            text = "speaker" 
+        intervals [298]:
+            xmin = 3168.07803222928 
+            xmax = 3170.720648885627 
+            text = "multiple" 
+        intervals [299]:
+            xmin = 3170.720648885627 
+            xmax = 3174.577204619388 
+            text = "speaker" 
+        intervals [300]:
+            xmin = 3174.577204619388 
+            xmax = 3180.8013926707113 
+            text = "mutiple" 
+        intervals [301]:
+            xmin = 3180.8013926707113 
+            xmax = 3192.606575306603 
+            text = "speaker" 
+        intervals [302]:
+            xmin = 3192.606575306603 
+            xmax = 3209.4105827832564 
+            text = "multiple" 
+        intervals [303]:
+            xmin = 3209.4105827832564 
+            xmax = 3211.8729911184414 
+            text = "speaker" 
+        intervals [304]:
+            xmin = 3211.8729911184414 
+            xmax = 3213.7768604047283 
+            text = "multiple" 
+        intervals [305]:
+            xmin = 3213.7768604047283 
+            xmax = 3303.474491028341 
+            text = "speaker" 
+        intervals [306]:
+            xmin = 3303.474491028341 
+            xmax = 3304.826568998906 
+            text = "multiple" 
+        intervals [307]:
+            xmin = 3304.826568998906 
+            xmax = 3306.3887181568853 
+            text = "speaker" 
+        intervals [308]:
+            xmin = 3306.3887181568853 
+            xmax = 3312.637314788802 
+            text = "multiple" 
+        intervals [309]:
+            xmin = 3312.637314788802 
+            xmax = 3314.590001236276 
+            text = "silence" 
+        intervals [310]:
+            xmin = 3314.590001236276 
+            xmax = 3327.173662470255 
+            text = "speaker" 
+        intervals [311]:
+            xmin = 3327.173662470255 
+            xmax = 3334.15970848178 
+            text = "multiple" 
+        intervals [312]:
+            xmin = 3334.15970848178 
+            xmax = 3343.264109043127 
+            text = "speaker" 
+        intervals [313]:
+            xmin = 3343.264109043127 
+            xmax = 3344.8008094109778 
+            text = "multiple" 
+        intervals [314]:
+            xmin = 3344.8008094109778 
+            xmax = 3351.244674687642 
+            text = "speaker" 
+        intervals [315]:
+            xmin = 3351.244674687642 
+            xmax = 3365.082779569812 
+            text = "multiple" 
+        intervals [316]:
+            xmin = 3365.082779569812 
+            xmax = 3371.2093332987615 
+            text = "arnab" 
+        intervals [317]:
+            xmin = 3371.2093332987615 
+            xmax = 3373.650191358104 
+            text = "silence" 
+        intervals [318]:
+            xmin = 3373.650191358104 
+            xmax = 3382.4549366762217 
+            text = "speaker" 
+        intervals [319]:
+            xmin = 3382.4549366762217 
+            xmax = 3401.320168951103 
+            text = "multiple" 
+        intervals [320]:
+            xmin = 3401.320168951103 
+            xmax = 3408.8380117738775 
+            text = "speaker" 
+        intervals [321]:
+            xmin = 3408.8380117738775 
+            xmax = 3423.287891485185 
+            text = "multiple" 
+        intervals [322]:
+            xmin = 3423.287891485185 
+            xmax = 3429.5811489830844 
+            text = "speaker" 
+        intervals [323]:
+            xmin = 3429.5811489830844 
+            xmax = 3435.3659825837262 
+            text = "multiple" 
+        intervals [324]:
+            xmin = 3435.3659825837262 
+            xmax = 3440.496976470151 
+            text = "speaker" 
+        intervals [325]:
+            xmin = 3440.496976470151 
+            xmax = 3445.159015363495 
+            text = "multiple" 
+        intervals [326]:
+            xmin = 3445.159015363495 
+            xmax = 3450.2360001269276 
+            text = "arnab" 
+        intervals [327]:
+            xmin = 3450.2360001269276 
+            xmax = 3506.710178696301 
+            text = "speaker" 
+        intervals [328]:
+            xmin = 3506.710178696301 
+            xmax = 3515.7114906496186 
+            text = "multiple" 
+        intervals [329]:
+            xmin = 3515.7114906496186 
+            xmax = 3518.5917031596427 
+            text = "speaker" 
+        intervals [330]:
+            xmin = 3518.5917031596427 
+            xmax = 3529.657098215941 
+            text = "multiple" 
+        intervals [331]:
+            xmin = 3529.657098215941 
+            xmax = 3554.6956255048226 
+            text = "speaker" 
+        intervals [332]:
+            xmin = 3554.6956255048226 
+            xmax = 3573.5374894086453 
+            text = "multiple" 
+        intervals [333]:
+            xmin = 3573.5374894086453 
+            xmax = 3593.0165723887985 
+            text = "arnab" 
+        intervals [334]:
+            xmin = 3593.0165723887985 
+            xmax = 3595.359796125767 
+            text = "silence" 
+        intervals [335]:
+            xmin = 3595.359796125767 
+            xmax = 3613.604429962201 
+            text = "speaker" 
+        intervals [336]:
+            xmin = 3613.604429962201 
+            xmax = 3617.584584370297 
+            text = "multiple" 
+        intervals [337]:
+            xmin = 3617.584584370297 
+            xmax = 3716.099424654706 
+            text = "speaker" 
+        intervals [338]:
+            xmin = 3716.099424654706 
+            xmax = 3805.0912823172425 
+            text = "arnab" 
+        intervals [339]:
+            xmin = 3805.0912823172425 
+            xmax = 3808.640132541216 
+            text = "silence" 
+        intervals [340]:
+            xmin = 3808.640132541216 
+            xmax = 3819.892488194785 
+            text = "multiple" 
+        intervals [341]:
+            xmin = 3819.892488194785 
+            xmax = 3823.488857589495 
+            text = "speaker" 
+        intervals [342]:
+            xmin = 3823.488857589495 
+            xmax = 3824.88014668332 
+            text = "multiple" 
+        intervals [343]:
+            xmin = 3824.88014668332 
+            xmax = 3833.4859871662534 
+            text = "speaker" 
+        intervals [344]:
+            xmin = 3833.4859871662534 
+            xmax = 3865.5404233329095 
+            text = "multiple" 
+        intervals [345]:
+            xmin = 3865.5404233329095 
+            xmax = 3868.46945300412 
+            text = "speaker" 
+        intervals [346]:
+            xmin = 3868.46945300412 
+            xmax = 3879.976798492 
+            text = "multiple" 
+        intervals [347]:
+            xmin = 3879.976798492 
+            xmax = 3885.761632092642 
+            text = "speaker" 
+        intervals [348]:
+            xmin = 3885.761632092642 
+            xmax = 3905.7631636270335 
+            text = "multiple" 
+        intervals [349]:
+            xmin = 3905.7631636270335 
+            xmax = 3906.471012464243 
+            text = "silence" 
+        intervals [350]:
+            xmin = 3906.471012464243 
+            xmax = 3910.8616986663055 
+            text = "speaker" 
+        intervals [351]:
+            xmin = 3910.8616986663055 
+            xmax = 3916.7197580087272 
+            text = "multiple" 
+        intervals [352]:
+            xmin = 3916.7197580087272 
+            xmax = 3928.655553918912 
+            text = "speaker" 
+        intervals [353]:
+            xmin = 3928.655553918912 
+            xmax = 3930.7913024493687 
+            text = "multiple" 
+        intervals [354]:
+            xmin = 3930.7913024493687 
+            xmax = 3944.826236290588 
+            text = "speaker" 
+        intervals [355]:
+            xmin = 3944.826236290588 
+            xmax = 3949.6669231907945 
+            text = "silence" 
+        intervals [356]:
+            xmin = 3949.6669231907945 
+            xmax = 3954.76831653482 
+            text = "speaker" 
+        intervals [357]:
+            xmin = 3954.76831653482 
+            xmax = 3963.482179806673 
+            text = "multiple" 
+        intervals [358]:
+            xmin = 3963.482179806673 
+            xmax = 3970.1078091758695 
+            text = "speaker" 
+        intervals [359]:
+            xmin = 3970.1078091758695 
+            xmax = 3980.7255417340093 
+            text = "multiple" 
+        intervals [360]:
+            xmin = 3980.7255417340093 
+            xmax = 4028.42691372765 
+            text = "arnab" 
+        intervals [361]:
+            xmin = 4028.42691372765 
+            xmax = 4042.562855757829 
+            text = "multiple" 
+        intervals [362]:
+            xmin = 4042.562855757829 
+            xmax = 4058.8831056987347 
+            text = "speaker" 
+        intervals [363]:
+            xmin = 4058.8831056987347 
+            xmax = 4108.41252525598 
+            text = "multiple" 
+        intervals [364]:
+            xmin = 4108.41252525598 
+            xmax = 4113.562735761192 
+            text = "arnab" 
+        intervals [365]:
+            xmin = 4113.562735761192 
+            xmax = 4116.296496787655 
+            text = "multiple" 
+        intervals [366]:
+            xmin = 4116.296496787655 
+            xmax = 4149.874648874712 
+            text = "arnab" 
+        intervals [367]:
+            xmin = 4149.874648874712 
+            xmax = 4151.900561063966 
+            text = "silence" 
+        intervals [368]:
+            xmin = 4151.900561063966 
+            xmax = 4156.196471248409 
+            text = "speaker" 
+        intervals [369]:
+            xmin = 4156.196471248409 
+            xmax = 4160.467972852258 
+            text = "multiple" 
+        intervals [370]:
+            xmin = 4160.467972852258 
+            xmax = 4163.542413797494 
+            text = "speaker" 
+        intervals [371]:
+            xmin = 4163.542413797494 
+            xmax = 4166.3982177269245 
+            text = "multiple" 
+        intervals [372]:
+            xmin = 4166.3982177269245 
+            xmax = 4174.770360870469 
+            text = "speaker" 
+        intervals [373]:
+            xmin = 4174.770360870469 
+            xmax = 4179.170395329543 
+            text = "arnab" 
+        intervals [374]:
+            xmin = 4179.170395329543 
+            xmax = 4180.14673855328 
+            text = "multiple" 
+        intervals [375]:
+            xmin = 4180.14673855328 
+            xmax = 4232.101955846281 
+            text = "speaker" 
+        intervals [376]:
+            xmin = 4232.101955846281 
+            xmax = 4234.713673969778 
+            text = "multiple" 
+        intervals [377]:
+            xmin = 4234.713673969778 
+            xmax = 4252.132830142155 
+            text = "speaker" 
+        intervals [378]:
+            xmin = 4252.132830142155 
+            xmax = 4263.779874837488 
+            text = "multiple" 
+        intervals [379]:
+            xmin = 4263.779874837488 
+            xmax = 4269.003311084481 
+            text = "speaker" 
+        intervals [380]:
+            xmin = 4269.003311084481 
+            xmax = 4278.229754548795 
+            text = "multiple" 
+        intervals [381]:
+            xmin = 4278.229754548795 
+            xmax = 4289.703343199072 
+            text = "speaker" 
+        intervals [382]:
+            xmin = 4289.703343199072 
+            xmax = 4312.32594111397 
+            text = "multiple" 
+        intervals [383]:
+            xmin = 4312.32594111397 
+            xmax = 4336.160397687213 
+            text = "arnab" 
+        intervals [384]:
+            xmin = 4336.160397687213 
+            xmax = 4343.40974612346 
+            text = "multiple" 
+        intervals [385]:
+            xmin = 4343.40974612346 
+            xmax = 4348.898818452226 
+            text = "arnab" 
+        intervals [386]:
+            xmin = 4348.898818452226 
+            xmax = 4355.806446760164 
+            text = "multiple" 
+        intervals [387]:
+            xmin = 4355.806446760164 
+            xmax = 4362.454666614734 
+            text = "speaker" 
+        intervals [388]:
+            xmin = 4362.454666614734 
+            xmax = 4370.363046727003 
+            text = "multiple" 
+        intervals [389]:
+            xmin = 4370.363046727003 
+            xmax = 4399.502735660347 
+            text = "speaker" 
+        intervals [390]:
+            xmin = 4399.502735660347 
+            xmax = 4408.365904177579 
+            text = "speaker" 
+        intervals [391]:
+            xmin = 4408.365904177579 
+            xmax = 4414.492457906528 
+            text = "multiple" 
+        intervals [392]:
+            xmin = 4414.492457906528 
+            xmax = 4429.229266194534 
+            text = "speaker" 
+        intervals [393]:
+            xmin = 4429.229266194534 
+            xmax = 4444.311688582201 
+            text = "multiple" 
+        intervals [394]:
+            xmin = 4444.311688582201 
+            xmax = 4470.746181364879 
+            text = "speaker" 
+        intervals [395]:
+            xmin = 4470.746181364879 
+            xmax = 4476.450516842865 
+            text = "multiple" 
+        intervals [396]:
+            xmin = 4476.450516842865 
+            xmax = 4480.014169609504 
+            text = "arnab" 
+        intervals [397]:
+            xmin = 4480.014169609504 
+            xmax = 4486.433626305575 
+            text = "multiple" 
+        intervals [398]:
+            xmin = 4486.433626305575 
+            xmax = 4489.299814158615 
+            text = "arnab" 
+        intervals [399]:
+            xmin = 4489.299814158615 
+            xmax = 4497.012925626137 
+            text = "multiple" 
+        intervals [400]:
+            xmin = 4497.012925626137 
+            xmax = 4506.556680638166 
+            text = "arnab" 
+        intervals [401]:
+            xmin = 4506.556680638166 
+            xmax = 4510.523592817899 
+            text = "multiple" 
+        intervals [402]:
+            xmin = 4510.523592817899 
+            xmax = 4518.846918800256 
+            text = "arnab" 
+        intervals [403]:
+            xmin = 4518.846918800256 
+            xmax = 4527.833170429991 
+            text = "multiple" 
+        intervals [404]:
+            xmin = 4527.833170429991 
+            xmax = 4532.495209323335 
+            text = "speaker" 
+        intervals [405]:
+            xmin = 4532.495209323335 
+            xmax = 4593.9921012092955 
+            text = "multiple" 
+        intervals [406]:
+            xmin = 4593.9921012092955 
+            xmax = 4629.287944413985 
+            text = "arnab" 
+        intervals [407]:
+            xmin = 4629.287944413985 
+            xmax = 4641.658418374882 
+            text = "speaker" 
+        intervals [408]:
+            xmin = 4641.658418374882 
+            xmax = 4644.514222304312 
+            text = "multiple" 
+        intervals [409]:
+            xmin = 4644.514222304312 
+            xmax = 4649.371529842403 
+            text = "arnab" 
+        intervals [410]:
+            xmin = 4649.371529842403 
+            xmax = 4664.608974084956 
+            text = "multiple" 
+        intervals [411]:
+            xmin = 4664.608974084956 
+            xmax = 4685.156322544646 
+            text = "speaker" 
+        intervals [412]:
+            xmin = 4685.156322544646 
+            xmax = 4693.626100010564 
+            text = "multiple" 
+        intervals [413]:
+            xmin = 4693.626100010564 
+            xmax = 4703.228278221706 
+            text = "arnab" 
+        intervals [414]:
+            xmin = 4703.228278221706 
+            xmax = 4706.767522407752 
+            text = "multiple" 
+        intervals [415]:
+            xmin = 4706.767522407752 
+            xmax = 4718.337447389949 
+            text = "arnab" 
+        intervals [416]:
+            xmin = 4718.337447389949 
+            xmax = 4725.342710020262 
+            text = "multiple" 
+        intervals [417]:
+            xmin = 4725.342710020262 
+            xmax = 4731.299959456426 
+            text = "arnab" 
+        intervals [418]:
+            xmin = 4731.299959456426 
+            xmax = 4761.47623290784 
+            text = "multiple" 
+        intervals [419]:
+            xmin = 4761.47623290784 
+            xmax = 4764.3808539984575 
+            text = "silence" 
+        intervals [420]:
+            xmin = 4764.3808539984575 
+            xmax = 4765.11311141626 
+            text = "arnab" 
+        intervals [421]:
+            xmin = 4765.11311141626 
+            xmax = 4767.529560895009 
+            text = "speaker" 
+        intervals [422]:
+            xmin = 4767.529560895009 
+            xmax = 4773.363211656837 
+            text = "multiple" 
+        intervals [423]:
+            xmin = 4773.363211656837 
+            xmax = 4774.7056835894755 
+            text = "silence" 
+        intervals [424]:
+            xmin = 4774.7056835894755 
+            xmax = 4776.254328195238 
+            text = "arnab" 
+        intervals [425]:
+            xmin = 4776.254328195238 
+            xmax = 4781.746258828758 
+            text = "multiple" 
+        intervals [426]:
+            xmin = 4781.746258828758 
+            xmax = 4784.797331402936 
+            text = "speaker" 
+        intervals [427]:
+            xmin = 4784.797331402936 
+            xmax = 4795.604878320166 
+            text = "multiple" 
+        intervals [428]:
+            xmin = 4795.604878320166 
+            xmax = 4798.436273669004 
+            text = "speaker" 
+        intervals [429]:
+            xmin = 4798.436273669004 
+            xmax = 4808.784471631081 
+            text = "multiple" 
+        intervals [430]:
+            xmin = 4808.784471631081 
+            xmax = 4813.275650460271 
+            text = "arnab" 
+        intervals [431]:
+            xmin = 4813.275650460271 
+            xmax = 4816.814894646318 
+            text = "silence" 
+        intervals [432]:
+            xmin = 4816.814894646318 
+            xmax = 4818.778485122168 
+            text = "speaker" 
+        intervals [433]:
+            xmin = 4818.778485122168 
+            xmax = 4835.303094183916 
+            text = "multiple" 
+        intervals [434]:
+            xmin = 4835.303094183916 
+            xmax = 4838.1892765414295 
+            text = "speaker" 
+        intervals [435]:
+            xmin = 4838.1892765414295 
+            xmax = 4857.40583952548 
+            text = "multiple" 
+        intervals [436]:
+            xmin = 4857.40583952548 
+            xmax = 4859.3097088117665 
+            text = "speaker" 
+        intervals [437]:
+            xmin = 4859.3097088117665 
+            xmax = 4868.682603759641 
+            text = "multiple" 
+        intervals [438]:
+            xmin = 4868.682603759641 
+            xmax = 4886.400374965712 
+            text = "arnab" 
+        intervals [439]:
+            xmin = 4886.400374965712 
+            xmax = 4899.251133786848 
+            text = "end_tune" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "tier_1" 
+        xmin = 0 
+        xmax = 4899.251133786848 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 694.6345696068637 
+            text = "" 
+        intervals [2]:
+            xmin = 694.6345696068637 
+            xmax = 707.1639105420238 
+            text = "" 
+        intervals [3]:
+            xmin = 707.1639105420238 
+            xmax = 812.2140858164821 
+            text = "" 
+        intervals [4]:
+            xmin = 812.2140858164821 
+            xmax = 1830.1353323839182 
+            text = "" 
+        intervals [5]:
+            xmin = 1830.1353323839182 
+            xmax = 1830.7455468987537 
+            text = "" 
+        intervals [6]:
+            xmin = 1830.7455468987537 
+            xmax = 4899.251133786848 
+            text = "" 
